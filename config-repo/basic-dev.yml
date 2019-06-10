@@ -1,3 +1,4 @@
 from: dev-environment-3.0
 username: admin
 password: 123
+host: localhost
