@@ -1,5 +1,5 @@
 from: dev-environment-3.0
 username: admin
-password: 1234
+password: admin
 host: localhost
-port: 7003
+port: 7002
